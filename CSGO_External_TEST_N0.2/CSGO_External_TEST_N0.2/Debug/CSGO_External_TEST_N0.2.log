@@ -1,0 +1,9 @@
+﻿  Main.cpp
+c:\users\kkan2\source\repos\csgo_external_test_n0.2\csgo_external_test_n0.2\glow.h(53): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\users\kkan2\source\repos\csgo_external_test_n0.2\csgo_external_test_n0.2\glow.h(54): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+  Memory.cpp
+  正在產生程式碼...
+LINK : warning LNK4075: 忽略 '/INCREMENTAL'，由於 '/FORCE' 規格
+Memory.obj : warning LNK4006: "class Memory mem" (?mem@@3VMemory@@A) 已經定義於 Main.obj 中，忽略第二個定義
+C:\Users\kkan2\source\repos\CSGO_External_TEST_N0.2\Debug\CSGO_External_TEST_N0.2.exe : warning LNK4088: 由於 /FORCE 選項，所以映像已經產生，映像可能無法執行
+  CSGO_External_TEST_N0.2.vcxproj -> C:\Users\kkan2\source\repos\CSGO_External_TEST_N0.2\Debug\CSGO_External_TEST_N0.2.exe

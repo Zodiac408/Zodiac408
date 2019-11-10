@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include=".h">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="cpp">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include=".h\offsets">
+      <UniqueIdentifier>{28fa8827-978a-41ce-9024-2d763fbfd76e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="cpp\Memory">
+      <UniqueIdentifier>{e5864ea3-4274-490f-808a-b108ff52afd4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include=".h\Memory">
+      <UniqueIdentifier>{3cb47974-0684-460b-b428-5bfd03a976a0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="cpp\Main">
+      <UniqueIdentifier>{2f7d8420-ff3a-47e7-a701-e6bf4de448c2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include=".h\Struct">
+      <UniqueIdentifier>{770296c3-9809-4dc7-86c4-6914b5c3711a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include=".h\Math">
+      <UniqueIdentifier>{79b8faa3-6dad-4d3e-9bb7-36f06753f642}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="idk">
+      <UniqueIdentifier>{172266a0-8e27-4e0a-80f0-0a4d045e1f9e}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="offsets.h">
+      <Filter>.h\offsets</Filter>
+    </ClInclude>
+    <ClInclude Include="Memory.h">
+      <Filter>.h\Memory</Filter>
+    </ClInclude>
+    <ClInclude Include="playerinfo.h">
+      <Filter>.h\Struct</Filter>
+    </ClInclude>
+    <ClInclude Include="Math.h">
+      <Filter>.h\Math</Filter>
+    </ClInclude>
+    <ClInclude Include="Glow.h">
+      <Filter>.h\Struct</Filter>
+    </ClInclude>
+    <ClInclude Include="Rank.h">
+      <Filter>.h\Struct</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Memory.cpp">
+      <Filter>cpp\Memory</Filter>
+    </ClCompile>
+    <ClCompile Include="Main.cpp">
+      <Filter>cpp\Main</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

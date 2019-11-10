@@ -1,0 +1,15 @@
+﻿  Memory.cpp
+c:\users\kkan2\source\repos\csgo_external_test_n0.2\csgo_external_test_n0.2\memory.cpp(42): warning C4129: ' ': 無法辨識的字元逸出序列
+Memory.obj : warning LNK4006: "struct ClientState clientS" (?clientS@@3UClientState@@A) 已經定義於 Main.obj 中，忽略第二個定義
+Memory.obj : warning LNK4006: "struct LocalPlayer Linfo" (?Linfo@@3ULocalPlayer@@A) 已經定義於 Main.obj 中，忽略第二個定義
+Memory.obj : warning LNK4006: "struct Entity Einfo" (?Einfo@@3UEntity@@A) 已經定義於 Main.obj 中，忽略第二個定義
+Memory.obj : warning LNK4006: "struct ClientEngine ce" (?ce@@3UClientEngine@@A) 已經定義於 Main.obj 中，忽略第二個定義
+Memory.obj : warning LNK4006: "class Memory mem" (?mem@@3VMemory@@A) 已經定義於 Main.obj 中，忽略第二個定義
+Memory.obj : warning LNK4006: "struct misc Misc" (?Misc@@3Umisc@@A) 已經定義於 Main.obj 中，忽略第二個定義
+C:\Users\kkan2\source\repos\CSGO_External_TEST_N0.2\Release\CSGO_External_TEST_N0.2.exe : warning LNK4088: 由於 /FORCE 選項，所以映像已經產生，映像可能無法執行
+  正在產生程式碼
+  1 of 38 functions ( 2.6%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  已完成程式碼產生
+  CSGO_External_TEST_N0.2.vcxproj -> C:\Users\kkan2\source\repos\CSGO_External_TEST_N0.2\Release\CSGO_External_TEST_N0.2.exe
